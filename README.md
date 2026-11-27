@@ -19,7 +19,7 @@
 
 * **სქრინშოთი:**
 
-  `![ნაბიჯი 1 — hello-world](https://github.com/elene534-bot/docker-davaleba/blob/5437606dd9a78feb96e5c3a7be6bd987a21715a0/screenshots/docker_1.png)
+  ![ნაბიჯი 1 — hello-world](https://github.com/elene534-bot/docker-davaleba/blob/5437606dd9a78feb96e5c3a7be6bd987a21715a0/screenshots/docker_1.png)
 
 
 ### ნაბიჯი 2: ინტერაქტიული Ubuntu კონტეინერის გაშვება
@@ -35,7 +35,7 @@
 
 * **სქრინშოთი:**
 
-  `![ნაბიჯი 2 — ubuntu bash]` [screenshots/docker_2.png](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_2.png)
+  ![ნაბიჯი 2 — ubuntu bash](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_2.png)
 
 ### ნაბიჯი 3: პაკეტების განახლება, `curl`-ის დაყენება და კავშირის შემოწმება
 
@@ -52,9 +52,9 @@
 
 * **სქრინშოთი:**
 
-  `![ნაბიჯი 3 — curl შემოწმება]`[docker_3.png](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_3.png))
-  ([docker_4.png](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_4.png))
-  ([docker_5.png](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_5.png)
+  ![docker_3.png](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_3.png)
+  ![docker_4.png](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_4.png)
+  ![docker_5.png](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_5.png)
 
 ### ნაბიჯი 4: კონტეინერის ტერმინალიდან გამოსვლა
 
@@ -83,7 +83,7 @@
 
 * **სქრინშოთი:**
 
-  `![ნაბიჯი 5 — კონტეინერის წაშლა]`[docker_6.png](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_6.png)
+  ![docker_6.png](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_6.png)
 
 ## ნაწილი 2: საკუთარი Python აპლიკაციის იმიჯის შექმნა (Build)
 
@@ -101,7 +101,7 @@
 
 * **სქრინშოთი:**
 
-  `![ნაბიჯი 6 — საქაღალდის შექმნა]`[docker_7.png](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_7.png)
+  ![docker_7.png](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_7.png)
 
 ### ნაბიჯი 7: მარტივი Python სკრიპტის შექმნა (`docker.py`)
 
@@ -116,7 +116,7 @@
 
 * **სქრინშოთი:**
 
-  `![ნაბიჯი 7 — docker.py]`([docker_7.1.png](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_7.1.png)
+  !([docker_7.1.png](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_7.1.png)
 
 ### ნაბიჯი 8: `Dockerfile`-ის შექმნა და გაფართოების გადამოწმება
 
@@ -133,7 +133,7 @@
 
 * **სქრინშოთი:**
 
-  `![ნაბიჯი 8 — Dockerfile]`[docker_8_fixed.png](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_8_fixed.png)
+  ![docker_8_fixed.png](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_8_fixed.png)
 
 ### ნაბიჯი 9: Docker იმიჯის აწყობა (Build)
 
@@ -148,7 +148,7 @@
 
 * **სქრინშოთი:**
 
-  `![ნაბიჯი 9 — docker build]`[docker_9.png](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_9.png)
+  ![docker_9.png](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_9.png)
 
 ### ნაბიჯი 10: კონტეინერის გაშვება შექმნილი იმიჯიდან
 
@@ -163,7 +163,7 @@
 
 * **სქრინშოთი:**
 
-  `![ნაბიჯი 10 — docker run python-app]`[docker_10.png](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_10.png)
+  ![docker_10.png](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_10.png)
 
 ### ნაბიჯი 11: იმიჯისთვის Tag-ის მინიჭება და იმიჯების სიის ნახვა
 
@@ -179,7 +179,7 @@
 
 * **სქრინშოთი:**
 
-  `![ნაბიჯი 11 — docker tag და images]`[docker_11.png](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_11.png)
+  ![docker_11.png](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_11.png)
 
 ## ნაწილი 3: Docker Volume-ების გამოყენება მონაცემების შესანახად
 
@@ -196,7 +196,7 @@
 
 * **სქრინშოთი:**
 
-  `![ნაბიჯი 12 — volume create]`[docker_12.1.png](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_12.1.png)
+  ![docker_12.1.png](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_12.1.png)
 
 ### ნაბიჯი 13: კონტეინერის გაშვება მიბმული Volume-ით
 
@@ -206,6 +206,7 @@
   docker run -it --name container_1 -v Evolume:/portal ubuntu bash
   
   ```
+  * **სქრინშოთი:** იხილეთ 'ნაბიჯი 14'-ის სქრინშოთი 
 
 * **აღწერა:** ვქმნით და ვუშვებთ Ubuntu კონტეინერს `container_1`, რომელშიც `/portal` დირექტორია მიბმულია `Evolume`-ზე. ამ საქაღალდეში ჩაწერილი ფაილები კონტეინერის წაშლის შემდეგაც შენარჩუნდება.
 
@@ -225,7 +226,7 @@
 
 * **სქრინშოთი:**
 
-  `![ნაბიჯი 14 — one.txt შექმნა და შემოწმება]`[docker_12.png](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_12.png)
+  ![docker_12.png](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_12.png)
 
 ### ნაბიჯი 15: მეორე კონტეინერის გაშვება და ფაილის შენახვის გადამოწმება
 
@@ -248,7 +249,7 @@
 
 * **სქრინშოთი:**
 
-  `![ნაბიჯი 15 — container_2 და შენახული ფაილი]`[docker_12.2.png](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_12.2.png)
+  ![docker_12.2.png](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_12.2.png)
 
 ## პროექტის ფაილები
 
