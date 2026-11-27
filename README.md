@@ -116,7 +116,7 @@
 
 * **სქრინშოთი:**
 
-  !([docker_7.1.png](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_7.1.png)
+  ![docker_7.1.png](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_7.1.png)
 
 ### ნაბიჯი 8: `Dockerfile`-ის შექმნა და გაფართოების გადამოწმება
 
