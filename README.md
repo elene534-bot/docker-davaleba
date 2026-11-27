@@ -19,7 +19,7 @@
 
 * **სქრინშოთი:**
 
-  `![ნაბიჯი 1 — hello-world]`[https://github.com/elene534-bot/docker-davaleba/blob/5437606dd9a78feb96e5c3a7be6bd987a21715a0/screenshots/docker_1.png](https://github.com/elene534-bot/docker-davaleba/blob/5437606dd9a78feb96e5c3a7be6bd987a21715a0/screenshots/docker_1.png)
+  `![ნაბიჯი 1 — hello-world](https://github.com/elene534-bot/docker-davaleba/blob/5437606dd9a78feb96e5c3a7be6bd987a21715a0/screenshots/docker_1.png)
 
 
 ### ნაბიჯი 2: ინტერაქტიული Ubuntu კონტეინერის გაშვება
