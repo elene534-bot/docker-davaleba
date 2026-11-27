@@ -17,7 +17,7 @@
 
 * **სქრინშოთი:**
 
-  `![ნაბიჯი 1 — hello-world]`  https://github.com/elene534-bot/docker-davaleba/blob/9b767f435914d8e2b1258970f30588569e7bd414/screenshots/docker_1.png
+  `![ნაბიჯი 1 — hello-world]`[https://github.com/elene534-bot/docker-davaleba/blob/5437606dd9a78feb96e5c3a7be6bd987a21715a0/screenshots/docker_1.png](https://github.com/elene534-bot/docker-davaleba/blob/5437606dd9a78feb96e5c3a7be6bd987a21715a0/screenshots/docker_1.png)
 
 
 ### ნაბიჯი 2: ინტერაქტიული Ubuntu კონტეინერის გაშვება
@@ -33,7 +33,7 @@
 
 * **სქრინშოთი:**
 
-  `![ნაბიჯი 2 — ubuntu bash]` [screenshots/docker_2.png](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_2.png
+  `![ნაბიჯი 2 — ubuntu bash]` [screenshots/docker_2.png](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_2.png)
 
 ### ნაბიჯი 3: პაკეტების განახლება, `curl`-ის დაყენება და კავშირის შემოწმება
 
@@ -114,7 +114,7 @@
 
 * **სქრინშოთი:**
 
-  `![ნაბიჯი 7 — docker.py]`([docker_7.1.png]https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_7.1.png)
+  `![ნაბიჯი 7 — docker.py]`([docker_7.1.png](https://github.com/elene534-bot/docker-davaleba/blob/c0d520dbb0e8e740992e2a4949ecc43e997bc029/screenshots/docker_7.1.png)
 
 ### ნაბიჯი 8: `Dockerfile`-ის შექმნა და გაფართოების გადამოწმება
 
